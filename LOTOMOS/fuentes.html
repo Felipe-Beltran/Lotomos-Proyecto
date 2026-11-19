@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fuentes Oficiales - Lotomos</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Estilos específicos para la sección de Fuentes */
+    .nav-menu {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+    }
+    .nav-link {
+      color: #cbd5e0;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+      padding: 6px 12px;
+      border-radius: 4px;
+      transition: all 0.2s ease;
+    }
+    .nav-link:hover, .nav-link.active {
+      color: #ffffff;
+      background-color: #2b6cb0;
+    }
+    .sources-header {
+      margin-bottom: 25px;
+    }
+    .sources-grid-page {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+    }
+    .source-card-detailed {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-top: 4px solid #2b6cb0;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform 0.2s ease;
+    }
+    .source-card-detailed:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .badge-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin: 10px 0;
+    }
+    .badge {
+      background-color: #e2e8f0;
+      color: #2d3748;
+      font-size: 0.75rem;
+      padding: 3px 8px;
+      border-radius: 12px;
+      font-weight: 600;
+    }
+    .source-link {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 8px 14px;
+      background-color: #ebf8ff;
+      color: #2b6cb0;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+      text-align: center;
+      border: 1px solid #bee3f8;
+      transition: background 0.2s ease;
+    }
+    .source-link:hover {
+      background-color: #2b6cb0;
+      color: #ffffff;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- BARRA DE NAVEGACIÓN SUPERIOR CON MENÚ -->
+  <header class="navbar">
+    <div class="navbar-left">
+      <span class="brand-title">Lotomos</span>
+      <nav class="nav-menu">
+        <a href="/" class="nav-link">Inicio / Consulta</a>
+        <a href="/fuentes.html" class="nav-link active">Fuentes Oficiales</a>
+      </nav>
+    </div>
+
+  </header>
+
+  <main class="container">
+    <section class="section-hero sources-header">
+      <h1>Fuentes Oficiales de Información</h1>
+      <p>
+        Todas las orientaciones generadas por Lotomos se basan de forma estricta en las fichas técnicas y portales oficiales del Distrito Capital y entidades nacionales.
+      </p>
+    </section>
+
+    <!-- CONTENEDOR DONDE SE CARGARÁN LAS FUENTES DINÁMICAMENTE -->
+    <div id="sourcesGrid" class="sources-grid-page">
+      <p>Cargando catálogo de fuentes oficiales...</p>
+    </div>
+  </main>
+
+  <script>
+    // Carga dinámica de las fuentes desde el archivo fuentes.json
+    async function cargarFuentesOficiales() {
+      const container = document.getElementById('sourcesGrid');
+      try {
+        const response = await fetch('/fuentes.json');
+        const fuentes = await response.json();
+        
+        container.innerHTML = ''; // Limpiar mensaje de carga
+
+        fuentes.forEach(f => {
+          const card = document.createElement('div');
+          card.className = 'source-card-detailed';
+
+          const categoriasBadges = f.categorias.map(cat => `<span class="badge">${cat}</span>`).join('');
+
+          card.innerHTML = `
+            <div>
+              <h3 style="color: #2c5282; margin-bottom: 5px;">${f.nombre}</h3>
+              <p style="font-size: 0.85rem; color: #718096; font-weight: 600; margin-bottom: 10px;">${f.entidad}</p>
+              <p style="font-size: 0.9rem; color: #4a5568; line-height: 1.5;">${f.resumen}</p>
+              <div class="badge-container">${categoriasBadges}</div>
+            </div>
+            <div>
+              <a href="${f.url}" target="_blank" rel="noopener" class="source-link">Visitar Portal Oficial &rarr;</a>
+              <p style="font-size: 0.75rem; color: #a0aec0; text-align: right; margin-top: 6px;">Consultado: ${f.consultada}</p>
+            </div>
+          `;
+          container.appendChild(card);
+        });
+      } catch (err) {
+        container.innerHTML = '<p>Error al cargar las fuentes oficiales.</p>';
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', cargarFuentesOficiales);
+  </script>
+</body>
+</html>

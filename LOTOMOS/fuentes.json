@@ -1,0 +1,419 @@
+[
+  {
+    "nombre": "Portafolio de servicios sociales",
+    "entidad": "Secretaría Distrital de Integración Social (SDIS)",
+    "categorias": [
+      "ingresos",
+      "alimentacion",
+      "vivienda",
+      "cuidados"
+    ],
+    "resumen": "Portafolio oficial de servicios sociales, modalidades y transferencias monetarias.",
+    "url": "https://www.integracionsocial.gov.co/index.php/atencion-ciudadana/tramites-y-servicios",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Ingreso Mínimo Garantizado (IMG)",
+    "entidad": "Secretaría Distrital de Integración Social (SDIS)",
+    "categorias": [
+      "ingresos",
+      "orientacion_general"
+    ],
+    "resumen": "Transferencias monetarias no condicionadas para pobreza extrema y moderada.",
+    "url": "https://www.integracionsocial.gov.co/index.php/ingreso-minimo-garantizado",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Agencia ATENEA - Educación Superior",
+    "entidad": "Agencia Distrital para la Educación Superior, la Ciencia y la Tecnología (ATENEA)",
+    "categorias": [
+      "educacion"
+    ],
+    "resumen": "Programas Jóvenes a la E, Todos a la U, Talento Capital y Fondo Atenea TyT.",
+    "url": "https://agenciaatenea.gov.co/",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Sistema Distrital de Cuidado",
+    "entidad": "Secretaría Distrital de la Mujer",
+    "categorias": [
+      "cuidados"
+    ],
+    "resumen": "Servicios integrales para mujeres cuidadoras y sus familias.",
+    "url": "https://sistemadecuidado.gov.co/",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Distrito Joven y Parceros por Bogotá",
+    "entidad": "Secretaría Distrital de Integración Social (SDIS)",
+    "categorias": [
+      "educacion",
+      "empleo",
+      "ingresos"
+    ],
+    "resumen": "Programas para jóvenes de 14 a 28 años, Casas de la Juventud y apoyos económicos.",
+    "url": "https://www.distritojoven.gov.co/",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Instituto Distrital de Recreación y Deporte (IDRD)",
+    "entidad": "IDRD",
+    "categorias": [
+      "deporte"
+    ],
+    "resumen": "Escuelas deportivas, Ciclovía, Recreovía, eventos deportivos y deporte adaptado.",
+    "url": "https://portalciudadano.idrd.gov.co/",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Portal Bogotá Trabaja",
+    "entidad": "Secretaría Distrital de Desarrollo Económico",
+    "categorias": [
+      "empleo",
+      "orientacion_general"
+    ],
+    "resumen": "Intermediación laboral, ferias de trabajo y formación para el empleo.",
+    "url": "https://bogotatrabaja.gov.co/",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Impulso Capital - Convocatorias",
+    "entidad": "Secretaría Distrital de Desarrollo Económico",
+    "categorias": [
+      "emprendimiento",
+      "empleo"
+    ],
+    "resumen": "Formación, asistencia técnica y capitalización hasta $3.000.000 para negocios locales.",
+    "url": "https://bogota.gov.co/mi-ciudad/impulso-capital",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Consulta del Registro Universal de Ingresos (RUI)",
+    "entidad": "Departamento Nacional de Planeación (DNP)",
+    "categorias": [
+      "ingresos",
+      "orientacion_general"
+    ],
+    "resumen": "Portal oficial Ventanilla Social para consultar información del RUI.",
+    "url": "https://ventanillasocialcap.dnp.gov.co/",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Puntos de atención de Integración Social por localidad",
+    "entidad": "SDIS",
+    "categorias": [
+      "orientacion_general"
+    ],
+    "resumen": "Directorio oficial de subdirecciones locales de Integración Social.",
+    "url": "https://www.integracionsocial.gov.co/index.php/entidad/informacion-institucional/localidades-sdis",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Certificación de discapacidad",
+    "entidad": "Secretaría Distrital de Salud",
+    "categorias": [
+      "salud",
+      "discapacidad"
+    ],
+    "resumen": "Guía oficial para solicitar el certificado de discapacidad.",
+    "url": "https://bogota.gov.co/mi-ciudad/salud/como-obtener-el-certificado-de-discapacidad-en-bogota-paso-paso",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Pasajes Gratis en TransMilenio (IMG)",
+    "entidad": "Secretaría Distrital de Integración Social (SDIS) / TransMilenio",
+    "categorias": [
+      "movilidad",
+      "discapacidad",
+      "ingresos"
+    ],
+    "resumen": "Información distrital sobre grupos poblacionales focalizados y consulta de pasajes gratis; la cantidad y elegibilidad dependen de la validación vigente.",
+    "url": "https://bogota.gov.co/mi-ciudad/integracion-social/quienes-tienen-beneficio-de-pasajes-gratis-de-transmilenio-en-bogota",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Mapa oficial de puntos de atención distrital",
+    "entidad": "Portal Bogotá / IDECA",
+    "categorias": [
+      "orientacion_general"
+    ],
+    "resumen": "Geovisor oficial para localizar equipamientos sociales y servicios.",
+    "url": "https://mapas.bogota.gov.co/",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Convocatorias de Alcaldías Locales",
+    "entidad": "Alcaldías Locales de Bogotá",
+    "categorias": [
+      "orientacion_general"
+    ],
+    "resumen": "Cada alcaldía local publica convocatorias y beneficios específicos.",
+    "url": "https://bogota.gov.co/mi-ciudad/alcaldias-locales",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Bogotá Sin Hambre 2.0",
+    "entidad": "Secretaría Distrital de Integración Social (SDIS)",
+    "categorias": [
+      "alimentacion"
+    ],
+    "resumen": "Estrategia distrital que incluye comedores comunitarios, bonos canjeables por alimentos y canastas rurales.",
+    "url": "https://bogota.gov.co/mi-ciudad/sin-hambre",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Programa de Alimentación Escolar (PAE)",
+    "entidad": "Secretaría Distrital de Educación",
+    "categorias": [
+      "alimentacion",
+      "educacion"
+    ],
+    "resumen": "Garantiza alimentación saludable a estudiantes de colegios públicos distritales.",
+    "url": "https://educacionbogota.edu.co/pae",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Mi Casa en Bogotá - Subsidios de Vivienda",
+    "entidad": "Secretaría Distrital del Hábitat",
+    "categorias": [
+      "vivienda",
+      "orientacion_general"
+    ],
+    "resumen": "Programas de subsidio para compra, arriendo y mejoramiento de vivienda (Oferta Preferente, Reactiva tu Compra).",
+    "url": "https://www.habitatbogota.gov.co/micasa",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Arrendamiento Temporal Solidario",
+    "entidad": "Secretaría Distrital del Hábitat",
+    "categorias": [
+      "vivienda",
+      "ingresos",
+      "orientacion_general"
+    ],
+    "resumen": "Auxilio económico mensual para hogares vulnerables con dificultades para pagar arriendo.",
+    "url": "https://www.habitatbogota.gov.co/arrendamiento-temporal-solidario",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Proyecta Local",
+    "entidad": "Secretaría Distrital de Gobierno",
+    "categorias": [
+      "cultura"
+    ],
+    "resumen": "Convocatoria de participación ciudadana para decidir inversiones locales en parques, cultura y convivencia.",
+    "url": "https://bogota.gov.co/mi-ciudad/proyecta-local",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Más Cultura Local",
+    "entidad": "Fundación Gilberto Alzate Avendaño (FUGA)",
+    "categorias": [
+      "cultura",
+      "emprendimiento"
+    ],
+    "resumen": "Convocatorias culturales y creativas en localidades como La Candelaria, Santa Fe y Los Mártires.",
+    "url": "https://cultured.gov.co/",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Ministerio de Vivienda, Ciudad y Territorio",
+    "entidad": "Ministerio de Vivienda",
+    "categorias": [
+      "vivienda",
+      "orientacion_general"
+    ],
+    "resumen": "Portal oficial para consultar programas de acceso a vivienda, subsidios de adquisición y mejoramiento habitacional a nivel nacional.",
+    "url": "https://minvivienda.gov.co",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "Departamento para la Prosperidad Social (DPS)",
+    "entidad": "Prosperidad Social",
+    "categorias": [
+      "ingresos",
+      "alimentacion",
+      "orientacion_general"
+    ],
+    "resumen": "Entidad nacional encargada de las transferencias monetarias no condicionadas y condicionadas (Renta Ciudadana, Renta Joven, Colombia Mayor).",
+    "url": "https://prosperidadsocial.gov.co",
+    "consultada": "2026-09-27"
+  },
+  {
+    "nombre": "ICETEX - Portal Oficial",
+    "entidad": "Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior (ICETEX)",
+    "categorias": [
+      "educacion",
+      "orientacion_general"
+    ],
+    "resumen": "Créditos educativos, becas y fondos de financiamiento para educación superior en Colombia.",
+    "url": "https://web.icetex.gov.co/portal",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Renta Joven - Prosperidad Social",
+    "entidad": "Departamento para la Prosperidad Social (DPS)",
+    "categorias": [
+      "ingresos",
+      "educacion",
+      "orientacion_general"
+    ],
+    "resumen": "Programa de transferencias monetarias para jóvenes en condición de vulnerabilidad que adelantan educación superior.",
+    "url": "https://prosperidadsocial.gov.co/sgpp/transferencias/renta-joven/",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Subsidios de Vivienda Mi Casa en Bogotá (Requisitos 2026)",
+    "entidad": "Secretaría Distrital del Hábitat",
+    "categorias": [
+      "vivienda",
+      "orientacion_general"
+    ],
+    "resumen": "Requisitos y guía para acceder a subsidios de adquisición y mejoramiento de vivienda en la ciudad de Bogotá.",
+    "url": "https://bogota.gov.co/mi-ciudad/habitat/subsidios-de-vivienda-programa-mi-casa-en-bogota-requisitos-2026",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Jóvenes con Oportunidades",
+    "entidad": "Secretaría Distrital de Integración Social (SDIS)",
+    "categorias": [
+      "educacion",
+      "empleo",
+      "ingresos"
+    ],
+    "resumen": "Programa de acceso e inclusión para las juventudes en Bogotá con apoyo económico y formación integral.",
+    "url": "https://bogota.gov.co/mi-ciudad/integracion-social/jovenes-con-oportunidades-programa-de-acceso-de-las-juventudes-bogota",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "GovTech y Cursos de IA Internacionales Gratis",
+    "entidad": "Consejería de Relaciones Internacionales de Bogotá (Secretaría General)",
+    "categorias": [
+      "educacion",
+      "orientacion_general"
+    ],
+    "resumen": "Boletín de oferta internacional que incluye cursos gratuitos de inteligencia artificial, innovación pública y convocatorias GovTech.",
+    "url": "https://bogota.gov.co/internacional/govtech-y-cursos-de-ia-internacionales-gratis-desde-bogota-en-2026",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Ferias para tu Negocio en Bogotá 2026",
+    "entidad": "Secretaría Distrital de Desarrollo Económico",
+    "categorias": [
+      "emprendimiento",
+      "empleo",
+      "orientacion_general"
+    ],
+    "resumen": "Agenda y cronograma de ferias itinerantes por localidades para el fortalecimiento empresarial, crédito y trámites comerciales.",
+    "url": "https://bogota.gov.co/mi-ciudad/desarrollo-economico/conoce-la-agenda-y-asiste-las-ferias-para-tu-negocio-en-bogota-2026",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Portal de Servicios - Alcaldía Mayor de Bogotá",
+    "entidad": "Alcaldía Mayor de Bogotá",
+    "categorias": [
+      "orientacion_general"
+    ],
+    "resumen": "Guía general y buscador de trámites, programas y servicios de la ciudad.",
+    "url": "https://bogota.gov.co/servicios",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Trámites Virtuales del Distrito",
+    "entidad": "Secretaría General - Alcaldía Mayor de Bogotá",
+    "categorias": [
+      "orientacion_general"
+    ],
+    "resumen": "Catálogo de trámites que se pueden realizar 100% en línea con entidades distritales.",
+    "url": "https://bogota.gov.co/mi-ciudad/gestion-publica/tramites-virtuales-del-distrito",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Red CADE",
+    "entidad": "Secretaría General - Alcaldía Mayor de Bogotá",
+    "categorias": [
+      "orientacion_general"
+    ],
+    "resumen": "Información y ubicación de SuperCADE, CADE y Rápida Atención al Ciudadano en Bogotá.",
+    "url": "https://www.redcade.gov.co",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Secretaría Distrital de Hacienda (SHD)",
+    "entidad": "Secretaría Distrital de Hacienda",
+    "categorias": [
+      "orientacion_general"
+    ],
+    "resumen": "Gestión, consulta y pago de impuestos distritales (predial, vehículos, ICA, entre otros).",
+    "url": "https://www.shd.gov.co",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Secretaría Distrital de Salud - Portal Oficial",
+    "entidad": "Secretaría Distrital de Salud",
+    "categorias": [
+      "salud",
+      "orientacion_general"
+    ],
+    "resumen": "Portal institucional con trámites, convocatorias y servicios del sistema de salud distrital.",
+    "url": "https://www.saludcapital.gov.co",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Secretaría Distrital de Movilidad",
+    "entidad": "Secretaría Distrital de Movilidad",
+    "categorias": [
+      "movilidad"
+    ],
+    "resumen": "Consulta de comparendos, trámites de tránsito, excepciones de pico y placa y movilidad.",
+    "url": "https://www.movilidadbogota.gov.co",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "IDIPRON - Instituto Distrital para la Protección de la Niñez y la Juventud",
+    "entidad": "IDIPRON",
+    "categorias": [
+      "ingresos",
+      "educacion",
+      "cuidados",
+      "orientacion_general"
+    ],
+    "resumen": "Atención integral, externados, internados y formación pedagógica para niños, niñas y jóvenes vulnerables.",
+    "url": "https://www.idipron.gov.co",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "FUPAD Colombia",
+    "entidad": "Fundación Panamericana para el Desarrollo (FUPAD)",
+    "categorias": [
+      "ingresos",
+      "empleo",
+      "orientacion_general"
+    ],
+    "resumen": "Programas sociales para población vulnerable, migrantes y retorno en Colombia.",
+    "url": "https://www.fupad.org",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Unidad para las Víctimas",
+    "entidad": "Unidad para la Atención y Reparación Integral a las Víctimas",
+    "categorias": [
+      "ingresos",
+      "vivienda",
+      "orientacion_general"
+    ],
+    "resumen": "Atención, registro (RUV) e indemnizaciones para personas afectadas por el conflicto armado.",
+    "url": "https://www.unidadvictimas.gov.co",
+    "consultada": "2026-09-28"
+  },
+  {
+    "nombre": "Portal Oficial Sisbén",
+    "entidad": "Departamento Nacional de Planeación (DNP)",
+    "categorias": [
+      "orientacion_general"
+    ],
+    "resumen": "Consulta de puntaje/grupo Sisbén IV, solicitud de encuesta y trámites del sistema de clasificación.",
+    "url": "https://www.sisben.gov.co",
+    "consultada": "2026-09-28"
+  }
+]
